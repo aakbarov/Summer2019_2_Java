@@ -8,7 +8,7 @@ public class FirstJavaProgram {
 		System.out.println("Hello World");
 		
 		System.out.println("Hello Cybertek Batch 12");
-		System.out.println("Hello World");
+		System.out.println("Hello Yasin");
 	}
 	
 	
